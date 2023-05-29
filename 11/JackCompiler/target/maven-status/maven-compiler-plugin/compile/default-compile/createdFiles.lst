@@ -1,0 +1,10 @@
+com/mycompany/syntaxanalyzer/JackTokenizer$tokenTypes.class
+com/mycompany/syntaxanalyzer/CompilationEngine.class
+com/mycompany/syntaxanalyzer/JackTokenizer.class
+com/mycompany/syntaxanalyzer/SymbolTable.class
+com/mycompany/syntaxanalyzer/VMWriter$Segment.class
+com/mycompany/syntaxanalyzer/SymbolTable$Kinds.class
+com/mycompany/syntaxanalyzer/JackTokenizer$keywordTypes.class
+com/mycompany/syntaxanalyzer/CompilationEngine$1.class
+com/mycompany/syntaxanalyzer/VMWriter.class
+com/mycompany/syntaxanalyzer/Main.class

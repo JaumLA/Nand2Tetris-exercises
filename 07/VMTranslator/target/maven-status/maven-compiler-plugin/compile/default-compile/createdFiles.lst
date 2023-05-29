@@ -1,0 +1,5 @@
+com/mycompany/vmtranslator/VMTranslator$1.class
+com/mycompany/vmtranslator/VMTranslator.class
+com/mycompany/vmtranslator/Parser$commandTypes.class
+com/mycompany/vmtranslator/Parser.class
+com/mycompany/vmtranslator/CodeWriter.class

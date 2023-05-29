@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SyntaxAnalyzer 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'SyntaxAnalyzer 1.0-SNAPSHOT API'
+com.mycompany.syntaxanalyzer
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/src/main/java = 1664819114834
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/member-search-index.zip = 1685367590393
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/allclasses-index.html = 1685367590441
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/package-search-index.zip = 1685367590389
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/type-search-index.js = 1685367590389
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/element-list = 1685367590181
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/deprecated-list.html = 1685367590493
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/allclasses.html = 1685367590497
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/overview-tree.html = 1685367590297
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/index.html = 1685367590513
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/search.js = 1685367590545
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/script.js = 1685367590545
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/type-search-index.zip = 1685367590389
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/help-doc.html = 1685367590525
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/package-search-index.js = 1685367590333
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/member-search-index.js = 1685367590389
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/index-all.html = 1685367590393
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/constant-values.html = 1685367590233
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/allpackages-index.html = 1685367590461
+/home/junlis/Documents/GithubReposOSSU/Nand2Tetris/10/SyntaxAnalyzer/target/site/apidocs/stylesheet.css = 1685367590545
